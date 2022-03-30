@@ -3,7 +3,6 @@ import { SERVER } from '../Utils';
 
 class About extends React.Component {
  render() {
-   console.log(this.props.data);
    let name = '';
    let desc = '';
    let img = '';
