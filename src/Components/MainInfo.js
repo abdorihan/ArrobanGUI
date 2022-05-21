@@ -6,7 +6,7 @@ class MainInfo extends React.Component {
 render() {
   let companyName = '';
   let background = '';
-  let companyBrief = '';
+  let companyBrief = '';  
   if(this.props.data){
     companyName=this.props.data.CompanyName;
     companyBrief=this.props.data.Brief;
