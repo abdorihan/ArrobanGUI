@@ -1,1 +1,1 @@
-export const SERVER = 'http://localhost:1337';
+export const SERVER = 'https://eiadadmin.herokuapp.com/';
